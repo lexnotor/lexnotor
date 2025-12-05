@@ -2,7 +2,7 @@
 
 ---
 
-- 😄 I am Alexandre aka lexnotor, a Student and Junior developer ✨
+- 😄 I am Alexandre aka lexnotor, a Student and Middle Software Engineer ✨
 - 🌱 I am currently interesting in How to ship apps with Docker
 - 💬 I am ready to collaborate on any TypeScript projet :fishsticks:
 
